@@ -1,3 +1,4 @@
 création fichier texte via ligne commande sur PC (fonction touch), puis modification du contenu du fichier texte via vim. JE vais ensuite l'envoyer sur GIT pour une première fois.
 
 Le fichier texte a bien été reçu sur GIT. Je le modifie depuis GIT actuellement, je pense ensuite le renvoyer en local.
+Le fichier est bien reçu en local après la commande "git pull origin master", je complète ce fichier pour le renvoyer sur GIT, je vais ajouter un autre fichier peut être.
