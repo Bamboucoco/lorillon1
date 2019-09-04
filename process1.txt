@@ -1,0 +1,2 @@
+création fichier texte via ligne commande sur PC (fonction touch), puis modification du contenu du fichier texte via vim. JE vais ensuite l'envoyer sur GIT pour une première fois.
+
